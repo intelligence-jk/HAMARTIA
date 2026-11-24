@@ -43,6 +43,8 @@ def test_diagnose():
 def test_degenerate_numbers_rejected():
     with pytest.raises(ValueError):
         distractors("square-of-difference", dict(a=4, b=0))  # a^2 either way
+    with pytest.raises(ValueError):
+        distractors("square-of-difference", dict(a=3, b=3))  # b(a-b)=0 either way
 
 
 def test_errors():
