@@ -1,4 +1,4 @@
-# SNARE: Student Not-Again Repository of Errors
+# HAMARTIA: Greek for missing the mark, the tragic error
 
 Formerly `trap-bank`.
 
