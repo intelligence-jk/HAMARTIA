@@ -1,4 +1,6 @@
-# trap-bank
+# SNARE: Student Not-Again Repository of Errors
+
+Formerly `trap-bank`.
 
 A small bank of common maths mistakes, each with the exact wrong answer that mistake produces.
 
